@@ -4,6 +4,7 @@
 ## Hey there nice to meet you!  👋
 ### My name is Gordon. H. I'm a Hobby Developer and dreams to become a Development Expert. 
 Software Developer/ Machine Learning Architect/ Python Developer/ Go Developer / HTML 
+
 Cofounder at Deepfield ML, Core Developer DF Project Maradona
 Contact me at: MLFusion@outlook.com
 
