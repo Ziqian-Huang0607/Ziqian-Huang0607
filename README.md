@@ -3,7 +3,7 @@
 
 ## Hey there nice to meet you!  👋
 ### My name is Gordon. H. I'm a Hobby Developer and dreams to become a Development Expert. 
-Software Developer/ Machine Learning Architect/ Python Developer/ Go Developer / Swift UI/ HTML / SQL /
+FullStack Developer/ Software Developer/ Machine Learning Architect/ Python Developer/ Go Developer / Swift UI/ HTML / SQL /
 
 Cofounder at Deepfield ML, Core Developer DF Project Maradona, Founder Apex Mac Workshop, Staff Codehubber, Cofounder SHSID ML CLub
 
