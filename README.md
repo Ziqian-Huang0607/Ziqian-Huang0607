@@ -10,10 +10,10 @@ Cofounder at Deepfield ML, Core Developer DF Project Maradona, Founder Apex Mac 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mlfusion@outlook.com) 
 ## Certs:
-* ![SQL HackerRank Advanced](https://www.hackerrank.com/certificates/ad02ccc01634)
-* ![TestDome Go Top 10%](https://www.testdome.com/certificates/d2b907e0d0f244c28eafcdc3e519ff98)
-* ![TestDome Python Top 10%](https://www.testdome.com/certificates/7beaa38ee4fc42f2b5dea79da8223df8)
-* ![TestDome HR Top 25%](https://www.testdome.com/certificates/32e5f65e04694f91a1475ae7dcd7ab31)
+* [![SQL HackerRank Advanced]](https://www.hackerrank.com/certificates/ad02ccc01634)
+* [![TestDome Go Top 10%]](https://www.testdome.com/certificates/d2b907e0d0f244c28eafcdc3e519ff98)
+* [![TestDome Python Top 10%]](https://www.testdome.com/certificates/7beaa38ee4fc42f2b5dea79da8223df8)
+* [![TestDome HR Top 25%]](https://www.testdome.com/certificates/32e5f65e04694f91a1475ae7dcd7ab31)
 * DataWhale Prompt Engineer | ID: DWPE022095
 * Datawhale LLM Development Engineer
 * Large Language Model Certificate By Datawhale X Hangzhou Association for Artificial Intelligence | ID: DWLLME0001733
