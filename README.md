@@ -9,6 +9,7 @@ Cofounder at Deepfield ML, Core Developer DF Project Maradona, Founder Apex Mac 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mlfusion@outlook.com) 
+Contact: mlfusion@outlook.com
 ## Certs:
 * [SQL HackerRank Advanced](https://www.hackerrank.com/certificates/ad02ccc01634)
 * [Python HackerRank Basic](https://www.hackerrank.com/certificates/d53d647f61af)
