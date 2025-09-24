@@ -3,9 +3,9 @@
 
 ## Hey there nice to meet you!  👋
 ### My name is Gordon. H. I'm a Hobby Developer and dreams to become a Development Expert. 
-FullStack Developer/ Software Developer/ Machine Learning Architect/ Python Developer/ Go Developer / Swift UI/ HTML / SQL /
+FullStack Developer/ Software Developer/ Machine Learning Architect/ Python Developer/ Go Developer / Swift UI/ HTML / SQL / JavaScript Dev
 
-Cofounder at Deepfield ML, Core Developer DF Project Maradona, Founder Apex Mac Workshop, Staff Codehubber, Cofounder SHSID ML CLub
+Staff & Core Dev at Codehubbers,Founder Apex Mac Workshop, Staff Codehubber, Cofounder SHSID ML CLub
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mlfusion@outlook.com) 
