@@ -35,8 +35,9 @@ Contact: mlfusion@outlook.com
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ziqian-Huang0607&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Repo Activites
+![Repos I created](https://github-contrib-stats.vercel.app/Ziqian-Huang0607/created.svg)
+![Repos I contributed to](https://github-contrib-stats.vercel.app/Ziqian-Huang0607/contributed.svg)
 
 > All our dreams can come true, if we have the courage to pursue them.
 > 
