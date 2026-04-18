@@ -5,7 +5,7 @@
 ### My name is Gordon. H. I'm a Hobby Developer and dreams to become a Development Expert. 
 FullStack Developer/ Software Developer/ Machine Learning Architect/ Python Developer/ Go Developer / Swift UI/ HTML / SQL / JavaScript Dev
 
-Staff & Core Dev at Codehubbers,Founder Apex Mac Workshop, Staff Codehubber, Cofounder SHSID ML CLub
+Staff & Core Dev at Codehubbers,Founder Apex Mac Workshop, Cofounder SHSID ML CLub, Core member of Official IT team for SHSID and IDX club.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mlfusion@outlook.com) 
