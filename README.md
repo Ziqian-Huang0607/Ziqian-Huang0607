@@ -6,7 +6,7 @@
 FullStack Developer/ Software Developer/ Machine Learning Architect/ Python Developer/ Go Developer / Swift UI/ HTML / SQL / JavaScript Dev
 
 Staff & Core Dev at Codehubbers,Founder Apex Mac Workshop, Cofounder SHSID ML CLub, Core member of Official IT team for SHSID and Indexademics of SHSID.
-
+Languages: Chinese, English, Cantonese
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mlfusion@outlook.com) 
 Contact: mlfusion@outlook.com
