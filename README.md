@@ -8,6 +8,10 @@ FullStack Developer/ Software Developer/ Machine Learning Architect/ Python Deve
 Staff & Core Dev at Codehubbers,Founder Apex Mac Workshop, Cofounder SHSID ML CLub, Core member of Official IT team for SHSID and Indexademics of SHSID.
 
 Languages: Chinese, English, Cantonese
+
+Every choice you make decides who you are. Not who you are, but who you choose to be?
+
+> -- Chan Sir, ICAC - Chronicles
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mlfusion@outlook.com) 
 Contact: mlfusion@outlook.com
@@ -33,13 +37,9 @@ Contact: mlfusion@outlook.com
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ziqian-Huang0607&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Repo Activites
 ![Repos I created](https://github-contrib-stats.vercel.app/Ziqian-Huang0607/created.svg)
 ![Repos I contributed to](https://github-contrib-stats.vercel.app/Ziqian-Huang0607/contributed.svg)
 
-> All our dreams can come true, if we have the courage to pursue them.
-> 
-> -- Walt Disney
+
