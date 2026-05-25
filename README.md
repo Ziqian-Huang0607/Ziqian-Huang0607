@@ -5,7 +5,7 @@
 ### My name is Gordon. H. I'm a Hobby Developer and dreams to become a Development Expert. 
 FullStack Developer/ Software Developer/ Machine Learning Architect/ Python Developer/ Go Developer / Swift UI/ HTML / SQL / JavaScript Dev / Cybersecurity Red Team
 
-Staff & Core Dev at Codehubbers, Founder Apex Mac Workshop, Cofounder and Coleader of SHSID Data Science CLub, Core member of Official IT team for SHSID and Indexademics of SHSID, Cofound PA Tech and Leader for Spec 6
+Staff & Core Dev at Codehubbers, Founder Apex Mac Workshop, Cofounder and Coleader of SHSID Data Science CLub, Core member of Official IT team for SHSID Student Center and Indexademics of SHSID, Cofound PA Tech and Leader for Spec 6
 
 Languages: Chinese, English, Cantonese
 
