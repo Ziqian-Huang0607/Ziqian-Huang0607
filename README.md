@@ -9,6 +9,8 @@ Learning to do intergrate CS/AI with Criminology and Psychology
 
 Staff & Core Dev at Codehubbers, Founder Apex Mac Workshop, Cofounder and Former Coleader of SHSID Data Science CLub, Core member of IT team for SHSID Student Center and Indexademics of SHSID, Major Leadership PA Tech Spec 0 6 9
 
+Student SHSID 28'
+
 Languages: Chinese, English, Cantonese
 
 Every choice you make decides who you are. Not who you are, but who you choose to be?
