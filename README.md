@@ -13,9 +13,8 @@ Student SHSID 28'
 
 Languages: Chinese, English, Cantonese
 
-Every choice you make decides who you are. Not who you are, but who you choose to be?
+永远不要在敌人犯错的时候打断他们。
 
-> -- Chan Sir, ICAC - Chronicles
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mlfusion@outlook.com) 
 Contact: mlfusion@outlook.com
