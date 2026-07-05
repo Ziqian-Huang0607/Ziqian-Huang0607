@@ -11,10 +11,12 @@ Staff & Core Dev at Codehubbers, Founder Apex Mac Workshop, Cofounder and Former
 
 Student SHSID 28'
 
+<¡The Abyssal Curator!>
+
 Languages: Chinese, English, Cantonese
 
 永远不要在敌人犯错的时候打断他们。
-
+ 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mlfusion@outlook.com) 
 Contact: mlfusion@outlook.com
