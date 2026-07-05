@@ -11,7 +11,7 @@ Staff & Core Dev at Codehubbers, Founder Apex Mac Workshop, Cofounder and Former
 
 Student SHSID 28'
 
-<¡The Abyssal Curator!>
+<¡The Anomaly!>
 
 Languages: Chinese, English, Cantonese
 
