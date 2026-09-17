@@ -7,7 +7,9 @@ FullStack Developer/ Software Developer/ Machine Learning Architect/ Python Deve
 
 Learning to do intergrate CS/AI with Criminology and Psychology
 
-Staff & Core Dev at Codehubbers, Founder Apex Mac Workshop, Cofounder and Former Coleader of SHSID Data Science CLub, Core member of IT team for SHSID Student Center and Indexademics of SHSID, Major Leadership PA Tech Spec 0 6 9
+Staff & Core Dev at Codehubbers, Founder Apex Mac Workshop, Cofounder and Former Coleader of SHSID Data Science CLub, SHSID Student Center Director Assisstant, IT Department Leader Indexademics Club, IT Department Leader STEMDodge, Founder and leader of Youth Innovation for Sustainability Association SHSID , PA Tech Leader, Leader at StandardCAS
+
+Currently transforming towards the business path.
 
 Student SHSID 28'
 
